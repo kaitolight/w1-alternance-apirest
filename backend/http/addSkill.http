@@ -1,0 +1,10 @@
+POST http://localhost:5000/api/wilders/2/skill
+Content-Type: application/json
+
+{
+    "skillsId": "3"
+}
+
+### 
+
+DELETE http://localhost:3000/api/wilders/1/skill/1
